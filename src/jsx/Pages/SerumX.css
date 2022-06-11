@@ -1,0 +1,13 @@
+.hoverBG:hover .hoverImage{
+    opacity: 1;
+}
+.hoverBG:hover .myText{
+    opacity: 0;
+}
+.hoverImage{
+    opacity: 0;
+    transition-duration: 0.5s;
+}
+.myText{
+    opacity: 1;
+}

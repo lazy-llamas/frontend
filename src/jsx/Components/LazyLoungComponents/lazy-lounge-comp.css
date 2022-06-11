@@ -1,0 +1,14 @@
+@media only screen and (max-width: 1140px) {
+    .section_title {
+        font-size: 30px;
+    }
+
+    .nav_buttons {
+        margin: 10px auto;
+    }
+
+    .explore_buttons {
+        margin: 10px auto;
+        width: 125px;
+    }
+}

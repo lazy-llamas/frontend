@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1140px) {
+    .lazy_paper_title {
+        font-size: 40px;
+    }
+
+    #coming_soon_title {
+        font-size: 40px;
+    }
+
+    #lazy_llamas_VX_title {
+        font-size: 40px;
+    }
+
+    #roadmap {
+        margin: 0;
+    }
+
+    .right_column {
+        width: 165px;
+    }
+
+    #learn_more {
+        display: none;
+    }
+}

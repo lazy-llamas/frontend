@@ -1,0 +1,6 @@
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width: 1140px) {
+    #lounge_button {
+        font-size: 1.25em;
+    }
+  }

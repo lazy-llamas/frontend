@@ -1,0 +1,19 @@
+@media only screen and (max-width: 1140px) {
+    .founder_names {
+        font-size: 1.75em;
+    }
+
+    #team_images {
+        width: 450px;
+    }
+
+    #perfection_title {
+        font-size: 1.5em;
+        width: 400px;
+        text-align: center;
+    }
+
+    #footer_container {
+        width: 400px;
+    }
+}
